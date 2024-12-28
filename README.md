@@ -8,7 +8,7 @@ Wednesday, 30 October 2024
 Developer=>Run as Administrator
 ![alt text](image-2.png)
 
-code=>Enter opens VS Code and the open this workspace
+code=>Enter opens VS Code and then open this workspace. THis is linked to the namor5772/Coding GitHub repositrory
 ![alt text](image-5.png)
 
 ![alt text](image-3.png)
